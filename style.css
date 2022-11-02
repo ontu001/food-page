@@ -13,7 +13,7 @@ h2 {
 }
 
 h1 {
-    font-size: 45px;
+    font-size: 55px;
 
 }
 
@@ -37,7 +37,7 @@ section {
 
 
 .half-width img {
-    width: 120%;
+    width: 100%;
 }
 
 .second-width {
@@ -63,6 +63,8 @@ section {
 .backimgone {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+    background-size: 2900px 920px;
+
 }
 
 .contact-me {
